@@ -1,2 +1,2 @@
-# Natural-Language-Process
-Natural Language Process Course (Python) Labs
+# Natural-Language-Process : Labs
+Natural Language Process DeepLearning.AI Coursera Course (Python Labs)
