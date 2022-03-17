@@ -2,7 +2,7 @@ import nltk                             # Python Library for Natural Language Pr
 from nltk.corpus import twitter_samples # NLTK twitter dataset
 #-----------------------------------------------------------------------------------------
 import matplotlib.pyplot as plt         # Matlab Python Library for visualization purposes
-import random                           # Pseudo Random Number Generator
+import random                           # Pseudo Random Number Generator 
 #-----------------------------------------------------------------------------------------
 # downloads sample twitter dataset.
 nltk.download('twitter_samples')
