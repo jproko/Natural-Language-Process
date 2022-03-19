@@ -143,4 +143,4 @@ for i in range(0, len(data)):
     ax.annotate(data[i][0], (x[i], y[i]), fontsize=12)
 
 ax.plot([0, 9], [0, 9], color = 'red') # Plot the red line that divides the 2 areas.
-plt.show()
+plt.show() 
